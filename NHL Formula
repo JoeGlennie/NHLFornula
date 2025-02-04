@@ -5,7 +5,7 @@ import seaborn as sb
 #How do I make my NBA formula better?
 #Should I simply avoid the ten inconsisitent teams?
 #Would it work better with NHL games since they dress 22 versus 12 in the NBA?
-       GPG            GOA  Ranking          Coaching
+       GPG            GOA_Ranking          Coaching
 Wpg    3.58                1                 8.75
 Was    3.49                2                   9
 TB     3.48               10                  8.5
@@ -40,7 +40,7 @@ Ana    2.51               21                  6.5
 
 #Obviously, I needed to tweak the NFL formula because it was built for an score of about 50 points versus 6 goals in hockey.
 
-temp_NHL_formula = Goals_Per_Game + (Coaching / 10) + (Weather / 30) - (33 - Goals_Allowed_Per_Game) / 32 - (Opposing_Coach / 20)
+temp_NHL_formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (33 - Goals_Allowed_Per_Game) / 32 - (Opposing_Coach / 20)
 
 #On February 2, 2025, I used the formula to calculate the totals for the New York Islanders and Florida Panthers
 NYI = New_York_Islanders
@@ -103,5 +103,10 @@ pred_NYI = 2.19
 
 pred_Edm = 3.22
 pred_StL = 1.85
+
+#I hypothesize that any margin of victory equal to or less than 0.5 isn't worth picking on Proline. 
+
+if margin_of_victory =< 0.5:
+   print "Do Not Pick on Proline"
 
 

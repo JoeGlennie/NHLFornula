@@ -60,7 +60,7 @@ temp_NHL_score_Dal = 3.46
 actual_NHL_score_Clb = 3
 actual_NHL_score_Dal = 5
 
-The formula works reasonably well, but I am going to change the defense denominator to 20 to see if helps make with the margin of victory.
+The formula works reasonably well, but I am going to change the defense ranking denominator to 20 to see if helps make with the margin of victory.
 
 February 3, 2025
 
@@ -97,3 +97,7 @@ pred_TB =  2.70
 
 pred_NJD = 3.63 
 pred_Pit = 1.86
+
+
+
+

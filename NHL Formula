@@ -5,38 +5,38 @@ import seaborn as sb
 #How do I make my NBA formula better?
 #Should I simply avoid the ten inconsisitent teams?
 #Would it work better with NHL games since they dress 22 versus 12 in the NBA?
-       GPG            GOA           Coaching
-Wpg    3.58           2.43            8.75
-Was    3.49           2.44             9
-TB     3.48           2.78            8.5
-Car    3.35           2.72            8.5
-LV     3.35           2.75             9
-Edm    3.29           2.71            8.75
-Col    3.28           3.09            8.5
-CBJ    3.27           3.27            8.5
-Fla    3.19           2.89            8.25
-Dal    3.18           2.47            8.5
-Buf    3.10           3.39            6.0
-NJ     3.09           2.49            8.0
-Tor    3.04           2.89            8.0
-Sea    2.98           3.17            7.0
-NYR    2.96           3.10            7.0
-Min    2.94           2.83            8.0 
-Mtl    2.92           3.35            7.0
-Pit    2.89           3.50            6.5
-Phi    2.85           3.36            8.5
-Van    2.84           3.14            7.0
-Det    2.82           3.06            8.0
-Uta    2.80           2.96            6.5
-LA     2.76           2.52            7.5
-NYI    2.72           2.82            8.5 
-Bos    2.70           3.22            7.5
-StL    2.69           3.06            7.0
-Cal    2.68           2.92            7.5
-Nas    2.66           3.22            7.0
-SJS    2.61           3.67            6.0
-Chi    2.61           3.42            6.0
-Ana    2.51           3.12            6.5 
+       GPG            GOA  Ranking          Coaching
+Wpg    3.58                1                 8.75
+Was    3.49                2                   9
+TB     3.48               10                  8.5
+Car    3.35                8                  8.5
+LV     3.35                9                   9
+Edm    3.29                7                 8.75
+Col    3.28               18                  8.5
+CBJ    3.27               26                  8.5
+Fla    3.19               14                  8.25
+Dal    3.18                3                  8.5
+Buf    3.10               29                  6.0
+NJ     3.09                4                  8.0
+Tor    3.04               12                  8.0
+Sea    2.98               23                  7.0
+NYR    2.96               20                  7.0
+Min    2.94               11                  8.0 
+Mtl    2.92               28                  7.0
+Pit    2.89               31                  6.5
+Phi    2.85               27                  8.5
+Van    2.84               22                  7.0
+Det    2.82               19                  8.0
+Uta    2.80               16                  6.5
+LA     2.76                5                  7.5
+NYI    2.72               12                  8.5 
+Bos    2.70               24                  7.5
+StL    2.69               17                  7.0
+Cal    2.68               15                  7.5
+Nas    2.66               25                  7.0
+SJS    2.61               32                  6.0
+Chi    2.61               30                  6.0
+Ana    2.51               21                  6.5 
 
 #Obviously, I needed to tweak the NFL formula because it was built for an score of about 50 points versus 6 goals in hockey.
 

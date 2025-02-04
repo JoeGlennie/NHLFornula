@@ -98,6 +98,10 @@ pred_TB =  2.70
 pred_NJD = 3.63 
 pred_Pit = 1.86
 
+pred_LV  = 2.75
+pred_NYI = 2.19
 
+pred_Edm = 3.22
+pred_StL = 1.85
 
 

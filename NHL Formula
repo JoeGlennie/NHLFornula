@@ -1,0 +1,80 @@
+import numpy as np
+import matplotlib 
+import seaborn as sb
+
+#How do I make my NBA formula better?
+#Should I simply avoid the ten inconsisitent teams?
+#Would it work better with NHL games since they dress 22 versus 12 in the NBA?
+       GPG            GOA           Coaching
+Wpg    3.58           2.43            8.75
+Was    3.49           2.44             9
+TB     3.48           2.78            8.5
+Car    3.35           2.72            8.5
+LV     3.35           2.75             9
+Edm    3.29           2.71            8.75
+Col    3.28           3.09            8.5
+CBJ    3.27           3.27            8.5
+Fla    3.19           2.89            8.25
+Dal    3.18           2.47            8.5
+Buf    3.10           3.39            6.0
+NJ     3.09           2.49            8.0
+Tor    3.04           2.89            8.0
+Sea    2.98           3.17            7.0
+NYR    2.96           3.10            7.0
+Min    2.94           2.83            8.0 
+Mtl    2.92           3.35            7.0
+Pit    2.89           3.50            6.5
+Phi    2.85           3.36            8.5
+Van    2.84           3.14            7.0
+Det    2.82           3.06            8.0
+Uta    2.80           2.96            6.5
+LA     2.76           2.52            7.5
+NYI    2.72           2.82            8.5 
+Bos    2.70           3.22            7.5
+StL    2.69           3.06            7.0
+Cal    2.68           2.92            7.5
+Nas    2.66           3.22            7.0
+SJS    2.61           3.67            6.0
+Chi    2.61           3.42            6.0
+Ana    2.51           3.12            6.5 
+
+#Obviously, I needed to tweak the NFL formula because it was built for an score of about 50 points versus 6 goals in hockey.
+
+temp_NHL_formula = Goals_Per_Game + (Coaching / 10) + (Weather / 30) - (33 - Goals_Allowed_Per_Game) / 32 - (Opposing_Coach / 20)
+
+#On February 2, 2025, I used the formula to calculate the totals for the New York Islanders and Florida Panthers
+NYI = New_York_Islanders
+Fla = Florida_Panthers
+
+temp_NHL_formula_NYI = 2.46
+temp_NHL_formula_Fla = 3.25
+
+actual_NHL_score_NYI = 3
+actual_NHL_score_Fla = 6
+
+#The formula underestimated both scores, so I will probably need to adjust it. It was also way off for the margin of victory
+
+temp_NHL_formula_Clb = 3.02 
+temp_NHL_score_Dal = 3.46
+
+actual_NHL_score_Clb = 3
+actual_NHL_score_Dal = 5
+
+The formula works reasonably well, but I am going to change the defense denominator to 20 to see if helps make with the margin of victory.
+
+February 3, 2025
+
+temp_NHL_formula_Ott = 3.143
+temp_NHL_formula_Nsh = 2.408
+
+temp_NHL_formula_Phi = 2.49
+temp_NHL_formula_Col = 3.67
+
+actual_NHL_formula_Phi = 0
+actual_NHL_formula_Col = 2
+
+temp_NHL_formula_Mtl = 2.90
+temp_NHL_formula_Ana = 2.54
+
+temp_NHL_formula_Mtl = 2
+temp_NHL_formula_Ana = 3

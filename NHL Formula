@@ -78,3 +78,22 @@ temp_NHL_formula_Ana = 2.54
 
 temp_NHL_formula_Mtl = 2
 temp_NHL_formula_Ana = 3
+
+February 3, 2025
+
+actual_NHL_formula_Ott = 5
+actual_NHL_formula_Nsh = 2
+
+February 4, 2025
+
+pred_Col = 3.76
+pred_Buf = 2.76
+
+pred_Fla = 2.28
+pred_Wsh = 3.19
+
+pred_Ott = 2.59 
+pred_TB =  2.70
+
+pred_NJD = 3.63 
+pred_Pit = 1.86

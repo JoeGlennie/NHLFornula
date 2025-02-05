@@ -16,7 +16,7 @@ Col    3.28               18                  8.5
 CBJ    3.27               26                  8.5
 Fla    3.19               14                  8.25
 Dal    3.18                3                  8.5
-Buf    3.10               29                  6.0
+Buf    3.10               29                  7.0
 NJ     3.09                4                  8.0
 Tor    3.04               12                  8.0
 Sea    2.98               23                  7.0
@@ -86,27 +86,30 @@ actual_NHL_formula_Nsh = 2
 
 February 4, 2025
 
-pred_Col = 3.76
-pred_Buf = 2.76
+pred_Col = 3.76        actual_Col = 2
+pred_Buf = 2.76        actual_Buf = 3
 
-pred_Fla = 2.28
-pred_Wsh = 3.19
+pred_Fla = 2.28        actual_Fla = 3 
+pred_Wsh = 3.19        actual_Wsh = 6
 
-pred_Ott = 2.59 
-pred_TB =  2.70
+pred_Ott = 2.59        actual_Ott = 3
+pred_TB =  2.70        actual_TB  = 4
 
-pred_NJD = 3.63 
-pred_Pit = 1.86
+pred_NJD = 3.63        actual_NJD = 3
+pred_Pit = 1.86        actual_Pit = 2
 
-pred_LV  = 2.75
-pred_NYI = 2.19
+pred_LV  = 2.75        actual_LV  = 1
+pred_NYI = 2.19        actual_NYI = 2
 
-pred_Edm = 3.22
-pred_StL = 1.85
+pred_Edm = 3.22        actual_Edm = 3
+pred_StL = 1.85        actual_StL = 2
 
 #I hypothesize that any margin of victory equal to or less than 0.5 isn't worth picking on Proline. 
+
+
 
 if margin_of_victory =< 0.5:
    print "Do Not Pick on Proline"
 
+The formula only went four for six, so I think there's room for improvement. For February 5th, I'm going to swap out the defense ranking with the GOA of the opposing team. The end result is always way too low, so I will multiply the final result by three.
 

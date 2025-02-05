@@ -113,3 +113,4 @@ if margin_of_victory =< 0.5:
 
 The formula only went four for six, so I think there's room for improvement. For February 5th, I'm going to swap out the defense ranking with the GOA of the opposing team. The end result is always way too low, so I will multiply the final result by three.
 
+New_Formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - Opp_GOA - (Opposing_Coach / 20) + Momentum

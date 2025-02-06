@@ -110,7 +110,8 @@ pred_StL = 1.85        actual_StL = 2
 
 
 if margin_of_victory =< 0.5:
-   print "Do Not Pick on Proline"
+   print "Do Not Pick on Proline":
+   return
 
 The formula only went four for six, so I think there's room for improvement. For February 5th, I'm going to swap out the defense ranking with the GOA of the opposing team. The end result is always way too low, so I will multiply the final result by three.
 

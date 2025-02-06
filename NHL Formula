@@ -139,3 +139,39 @@ pred_LAK = 3.16
 
 actual_Mtl = 3
 actual_LAK = 6
+
+#February 6, 2025
+
+pred_Ott = 3.30
+pred_TB  = 3.78
+
+pred_Wsh = 3.98
+pred_Phi = 2.94
+
+pred_LV  = 3.35
+pred_NJD = 3.22
+
+pred_Uta = 2.89
+pred_CBJ = 3.62
+
+pred_Car = 3.52
+pred_Min = 2.90
+
+pred_Fla = 3.61
+pred_StL = 2.82
+
+pred_Col = 2.65
+pred_Cal = 2.78
+
+pred_Tor = 3.28
+pred_Sea = 3.13
+
+pred_Van = 3.27
+pred_SJS = 2.64
+
+
+
+
+
+
+

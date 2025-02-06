@@ -5,7 +5,7 @@ import seaborn as sb
 #How do I make my NBA formula better?
 #Should I simply avoid the ten inconsisitent teams?
 #Would it work better with NHL games since they dress 22 versus 12 in the NBA?
-       GPG            GOA_Ranking           Coaching
+       GPG                GOA                Coaching
 Wpg    3.58               2.38                 8.75
 Was    3.49               2.45                   9
 TB     3.48               2.79                  8.5
@@ -137,5 +137,5 @@ actual_Chi = 3
 pred_Mtl = 3.15
 pred_LAK = 3.16
 
-actual_Mtl =
-actual_LAK =
+actual_Mtl = 3
+actual_LAK = 6

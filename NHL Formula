@@ -124,8 +124,8 @@ Newest_Formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (1 / O
 pred_Bos = 2.94
 pred_NYR = 3.12
 
-actual_Bos =
-actual_NYR =
+actual_Bos = 2
+actual_NYR = 3
 
 pred_Edm = 3.41
 pred_Chi = 2.44

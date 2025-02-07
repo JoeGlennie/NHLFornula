@@ -176,8 +176,8 @@ actual_Min = 2
 pred_Fla = 3.61
 pred_StL = 2.82
 
-actual_Fla = 
-actual_StL =
+actual_Fla = 3
+actual_StL = 2
 
 pred_Col = 2.65
 pred_Cal = 2.78
@@ -197,7 +197,7 @@ pred_SJS = 2.64
 actual_Van =
 actual_SJS =
 
-
+#The formula isn't working well, so I will need to check which variable/s are holding it back. 
 
 
 

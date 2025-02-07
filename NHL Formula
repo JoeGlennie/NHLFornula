@@ -182,20 +182,20 @@ actual_StL = 2
 pred_Col = 2.65
 pred_Cal = 2.78
 
-actual_Col = 
-actual_Cal = 
+actual_Col = 4
+actual_Cal = 2
 
 pred_Tor = 3.28
 pred_Sea = 3.13
 
-actual_Tor = 
-actual_Sea =
+actual_Tor = 3
+actual_Sea = 1
 
 pred_Van = 3.27
 pred_SJS = 2.64
 
-actual_Van =
-actual_SJS =
+actual_Van = 2
+actual_SJS = 1
 
 #The formula isn't working well, so I will need to check which variable/s are holding it back. 
 

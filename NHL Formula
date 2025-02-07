@@ -68,6 +68,9 @@ February 3, 2025
 temp_NHL_formula_Ott = 3.143
 temp_NHL_formula_Nsh = 2.408
 
+actual_NHL_formula_Ott = 5
+actual_NHL_formula_Nsh = 2
+
 temp_NHL_formula_Phi = 2.49
 temp_NHL_formula_Col = 3.67
 
@@ -199,7 +202,19 @@ actual_SJS = 1
 
 #The formula isn't working well, so I will need to check which variable/s are holding it back. 
 
+February 7, 2025
 
+pred_Pit = 2.33 
+pred_NYR = 3.23
 
+pred_NYI = 2.61
+pred_Wpg = 3.80
+ 
+pred_Nsh = 2.57
+pred_Chi = 2.34
 
+pred_Col = 3.39
+pred_Edm = 3.55
 
+pred_Dal = 3.55
+pred_LAK = 3.06

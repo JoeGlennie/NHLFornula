@@ -259,36 +259,36 @@ Chi           44.36%                   43.79%
 
 February 8, 2025
 
-After going one for five last night, it really seems like the games become more unpredictable throughout the course of the week. I'm going to add variable for the day of the week to see if it helps with the accuracy. I encountered the same issue when I tried to create a formula for baseball games.
+After going one for five last night, it really seems like the games become more unpredictable throughout the course of the week. I'm going to add a variable for the day of the week to see if it helps with the accuracy. I encountered the same issue when I tried to create a formula for baseball games.
 
 pred_Chi = 2.77
-pred_StL = 2.20
+pred_StL = 2.20 + 0.6 = 2.80
 
-pred_NYR = 3.13
+pred_NYR = 3.13 + 0.6 = 3.73
 pred_CBJ = 3.60
 
-pred_Ott = 3.21
+pred_Ott = 3.21 + 0.6 = 3.81
 pred_Fla = 3.56
 
 pred_Pit = 2.97
-pred_Phi = 2.43
+pred_Phi = 2.43 + 0.6 = 3.03
 
 pred_Tor = 3.44
-pred_Van = 2.96
+pred_Van = 2.96 + 0.6 = 3.56
 
 pred_Buf = 3.35
-pred_Nsh = 2.83
+pred_Nsh = 2.83 + 0.6 = 3.43
 
-pred_NYI = 2.98
+pred_NYI = 2.98 + 0.6 = 3.58
 pred_Min = 3.01
 
 pred_Dal = 3.75
-pred_SJS = 2.64
+pred_SJS = 2.64 + 0.6 = 3.24
 
 pred_Sea = 3.00
-pred_Cal = 2.80
+pred_Cal = 2.80 + 0.6 = 3.40
 
-pred_Ana = 2.69
+pred_Ana = 2.69 + 0.6 = 3.29
 pred_LA  = 3.16
 
 Based on the results from Friday night (where adding 0.5 to the score of every underdog really would've helped), for a Saturday night, I will add 0.6 to the score of every underdog.  

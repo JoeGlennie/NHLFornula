@@ -213,8 +213,8 @@ pred_Wpg = 3.80          actual_Wpg = 4
 pred_Nsh = 2.57          actual_Nsh = 2
 pred_Chi = 2.34          actual_Chi = 6
 
-pred_Col = 3.39          actual_Col =
-pred_Edm = 3.55          actual_Edm = 
+pred_Col = 3.39          actual_Col = 5
+pred_Edm = 3.55          actual_Edm = 4
 
 pred_Dal = 3.55          actual_Dal =
 pred_LAK = 3.06          actual_LAK = 

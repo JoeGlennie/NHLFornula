@@ -216,8 +216,8 @@ pred_Chi = 2.34          actual_Chi = 6
 pred_Col = 3.39          actual_Col = 5
 pred_Edm = 3.55          actual_Edm = 4
 
-pred_Dal = 3.55          actual_Dal =
-pred_LAK = 3.06          actual_LAK = 
+pred_Dal = 3.55          actual_Dal = 4
+pred_LAK = 3.06          actual_LAK = 5
 
 
 According to to the website www.underdogchance.com, the two most important statistics are Corsi and expected goals (xG). I believe Corsi is connected to total shot attempts per game. 
@@ -257,23 +257,39 @@ Ana           45.91%                   43.82%
 SJS           44.81%                   42.47%
 Chi           44.36%                   43.79%
 
+February 8, 2025
 
+After going one for five last night, it really seems like the games become more unpredictable throughout the course of the week. I'm going to add variable for the day of the week to see if it helps with the accuracy. I encountered the same issue when I tried to create a formula for baseball games.
 
+pred_Chi = 2.77
+pred_StL = 2.20
 
+pred_NYR = 3.13
+pred_CBJ = 3.60
 
+pred_Ott = 3.21
+pred_Fla = 3.56
 
+pred_Pit = 2.97
+pred_Phi = 2.43
 
+pred_Tor = 3.44
+pred_Van = 2.96
 
+pred_Buf = 3.35
+pred_Nsh = 2.83
 
+pred_NYI = 2.98
+pred_Min = 3.01
 
+pred_Dal = 3.75
+pred_SJS = 2.64
 
+pred_Sea = 3.00
+pred_Cal = 2.80
 
-
-
-
-
-
-
+pred_Ana = 2.69
+pred_LA  = 3.16
 
 
 

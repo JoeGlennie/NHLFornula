@@ -306,8 +306,8 @@ actual_Min = 6
 pred_Dal = 3.75
 pred_SJS = 2.64 + 0.6 = 3.24
 
-actual_Dal =
-actual_SJS =
+actual_Dal = 8
+actual_SJS = 3
 
 pred_Sea = 3.00
 pred_Cal = 2.80 + 0.6 = 3.40

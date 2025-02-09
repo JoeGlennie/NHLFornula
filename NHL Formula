@@ -350,3 +350,6 @@ pred_Mtl = 3.70
 
 actual_TB  = 5
 actual_Mtl = 3
+
+Final_Formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (1 / Opp_GOA) - (Opposing_Coach / 20) + Momentum + day_of_the_week
+

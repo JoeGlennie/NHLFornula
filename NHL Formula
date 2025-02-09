@@ -264,32 +264,62 @@ After going one for five last night, it really seems like the games become more 
 pred_Chi = 2.77
 pred_StL = 2.20 + 0.6 = 2.80
 
+actual_Chi = 5
+actual_StL = 6
+
 pred_NYR = 3.13 + 0.6 = 3.73
 pred_CBJ = 3.60
+
+actual_NYR = 4
+actual_CBJ = 3
 
 pred_Ott = 3.21 + 0.6 = 3.81
 pred_Fla = 3.56
 
+actual_Ott = 1
+actual_Fla = 5
+
 pred_Pit = 2.97
 pred_Phi = 2.43 + 0.6 = 3.03
+
+actual_Pit = 2
+actual_Phi = 3
 
 pred_Tor = 3.44
 pred_Van = 2.96 + 0.6 = 3.56
 
+actual_Tor = 1
+actual_Van = 2
+
 pred_Buf = 3.35
 pred_Nsh = 2.83 + 0.6 = 3.43
+
+actual_Buf = 4
+actual_Nsh = 6
 
 pred_NYI = 2.98 + 0.6 = 3.58
 pred_Min = 3.01
 
+actual_NYI = 3
+actual_Min = 6
+
 pred_Dal = 3.75
 pred_SJS = 2.64 + 0.6 = 3.24
+
+actual_Dal =
+actual_SJS =
 
 pred_Sea = 3.00
 pred_Cal = 2.80 + 0.6 = 3.40
 
+actual_Sea =
+actual_Cal =
+
 pred_Ana = 2.69 + 0.6 = 3.29
 pred_LA  = 3.16
+
+actual_Ana =
+actual_LA  =
 
 Based on the results from Friday night (where adding 0.5 to the score of every underdog really would've helped), for a Saturday night, I will add 0.6 to the score of every underdog.  
 

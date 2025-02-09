@@ -335,3 +335,16 @@ day_of_the_week = ({'Monday': 0.1, 'Tuesday': 0.2, 'Wednesday': 0.3, 'Thursday':
 
 From now on, I'm going to avoid games involving Minnesota.
 
+February 9, 2025
+
+pred_Uta = 3.01
+pred_Was = 3.89
+
+actual_Uta = 5
+actual_Was = 4
+
+pred_TB  = 3.85
+pred_Mtl = 3.70
+
+actual_TB  = 5
+actual_Mtl = 3

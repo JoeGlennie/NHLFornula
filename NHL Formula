@@ -331,5 +331,7 @@ Friday  = 0.5
 Saturday = 0.6
 Sunday  = 0.7
 
+day_of_the_week = ({'Monday': 0.1, 'Tuesday': 0.2, 'Wednesday': 0.3, 'Thursday': 0.4, 'Friday': 0.5, 'Saturday': 0.6, 'Sunday': 0.7}) 
+
 From now on, I'm going to avoid games involving Minnesota.
 

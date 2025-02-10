@@ -1,9 +1,10 @@
 import numpy as np
 import matplotlib 
 import seaborn as sb
+from sympy import symbols, Eq
 
 #How do I make my NBA formula better?
-#Should I simply avoid the ten inconsisitent teams?
+#Should I simply avoid the ten inconsistent teams?
 #Would it work better with NHL games since they dress 22 versus 12 in the NBA?
        GPG                GOA                Coaching
 Wpg    3.58               2.38                 8.75

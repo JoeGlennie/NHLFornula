@@ -146,56 +146,56 @@ actual_LAK = 6
 
 #February 6, 2025
 
-pred_Ott = 3.30
+pred_Ott = 3.30 + 0.4 = 3.70
 pred_TB  = 3.78
 
 actual_Ott = 1
 actual_TB  = 5
 
 pred_Wsh = 3.98
-pred_Phi = 2.94
+pred_Phi = 2.94 + 0.4 = 3.34
 
 actual_Wsh = 4
 actual_Phi = 3
 
 pred_LV  = 3.35
-pred_NJD = 3.22
+pred_NJD = 3.22 + 0.4 = 3.62
 
 actual_LV  = 3 
 actual_NJD = 1
 
-pred_Uta = 2.89
+pred_Uta = 2.89 + 0.4 = 3.29
 pred_CBJ = 3.62
 
 actual_Uta = 3
 actual_CBJ = 2
 
 pred_Car = 3.52
-pred_Min = 2.90
+pred_Min = 2.90 + 0.4 = 3.30
 
 actual_Car = 1
 actual_Min = 2
 
 pred_Fla = 3.61
-pred_StL = 2.82
+pred_StL = 2.82 + 0.4 = 3.22
 
 actual_Fla = 3
 actual_StL = 2
 
-pred_Col = 2.65
+pred_Col = 2.65 + 0.4 = 3.05
 pred_Cal = 2.78
 
 actual_Col = 4
 actual_Cal = 2
 
-pred_Tor = 3.28
-pred_Sea = 3.13
+pred_Tor = 3.28 
+pred_Sea = 3.13 + 0.4 = 3.53
 
 actual_Tor = 3
 actual_Sea = 1
 
 pred_Van = 3.27
-pred_SJS = 2.64
+pred_SJS = 2.64 + 0.4 = 3.04
 
 actual_Van = 2
 actual_SJS = 1
@@ -204,20 +204,20 @@ actual_SJS = 1
 
 #February 7, 2025
 
-pred_Pit = 2.33          actual_Pit = 3
-pred_NYR = 3.23          actual_NYR = 2
+pred_Pit = 2.33 + 0.5 (day_of_the_week) = 2.83     actual_Pit = 3
+pred_NYR = 3.23                                    actual_NYR = 2
 
-pred_NYI = 2.61          actual_NYI = 3
-pred_Wpg = 3.80          actual_Wpg = 4
+pred_NYI = 2.61 + 0.5 = 3.11                       actual_NYI = 3
+pred_Wpg = 3.80                                    actual_Wpg = 4
  
-pred_Nsh = 2.57          actual_Nsh = 2
-pred_Chi = 2.34          actual_Chi = 6
+pred_Nsh = 2.57                                    actual_Nsh = 2
+pred_Chi = 2.34 + 0.5 = 2.84                       actual_Chi = 6
 
-pred_Col = 3.39          actual_Col = 5
-pred_Edm = 3.55          actual_Edm = 4
+pred_Col = 3.39 + 0.5 = 3.89                       actual_Col = 5
+pred_Edm = 3.55                                    actual_Edm = 4
 
-pred_Dal = 3.55          actual_Dal = 4
-pred_LAK = 3.06          actual_LAK = 5
+pred_Dal = 3.55                                    actual_Dal = 4
+pred_LAK = 3.06 + 0.5 =  3.56                      actual_LAK = 5
 
 
 According to to the website www.underdogchance.com, the two most important statistics are Corsi and expected goals (xG). I believe Corsi is connected to total shot attempts per game. 

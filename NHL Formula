@@ -421,3 +421,10 @@ February 15, 2025
 
 After analyzing scores from January 2025, I determined that 1/Opp_GOA is a poor measure of defense because the maximum difference between two teams in less than 0.2 goals. However, the defense variable isn't nearly as important as I thought it would be, so I'm going to increase the denominator to 35.
 
+After adjusting the defense variable, the formula yielded the following results for February 9, 2025:
+
+Uta  3.17
+Was  3.67
+
+TB   4.08
+Mtl  3.29

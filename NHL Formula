@@ -249,7 +249,7 @@ pred_SJS = 2.64 + 0.4 = 3.04
 actual_Van = 2
 actual_SJS = 1
 
-#The formula isn't working well, so I will need to check which variable/s are holding it back. 
+#The formula isn't working well, so I will need to check which variables are holding it back. 
 
 #February 7, 2025
 
@@ -415,5 +415,5 @@ February 10, 2025
 -Even after taking the day of the week into account, the formula isn't accurate enough to generate a good profit.
 -It would probably be better to use the starting goalie's GOA instead of the team average.
 
-
+I really need to determine if I should use (33- Opp_GOA_Ranking)/32 or 1/Opp_GOA_Ranking for the defense variable.
 

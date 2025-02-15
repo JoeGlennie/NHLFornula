@@ -42,23 +42,23 @@ Ana    2.51               3.06                  6.5
 
 #Obviously, I needed to tweak the NFL formula because it was built for an score of about 50 points versus 6 goals in hockey.
 
-
+                                                  Games_Played  GOA
 	CA	Connor Hellebuyck	WPG	31	43	2.07	0.925	34	7	89	1099	1188	6	2587	0	1	1	0
 2	CA	Darcy Kuemper	       LAK	34	29	2.19	0.918	16	6	63	705	767	2	1727	0	0	0	2
-3	CA	Jacob Markström	NJD	34	36	2.20	0.912	21	9	78	808	886	3	2128	0	0	0	0
-4	CA	Logan Thompson	WSH	27	31	2.23	0.921	24	2	69	804	873	2	1857	0	1	1	0
+3	CA	Jacob Markström	        NJD	34	36	2.20	0.912	21	9	78	808	886	3	2128	0	0	0	0
+4	CA	Logan Thompson	        WSH	27	31	2.23	0.921	24	2	69	804	873	2	1857	0	1	1	0
 5	CA	Andrei Vasilevski	TBL	30	43	2.32	0.918	25	15	98	1098	1195	3	2539	0	2	2	6
-6	CA	Jake Oettinger	DAL	26	40	2.35	0.911	26	12	92	945	1037	1	2349	0	1	1	0
-7	CA	Spencer Knight	FLA	23	22	2.47	0.906	11	8	51	491	542	2	1239	0	2	2	0
-8	CA	Linus Ullmark  	OTT	31	25	2.49	0.916	12	9	58	628	686	3	1400	0	1	1	0
-9	CA	Joey Daccord	       SEA	28	38	2.49	0.915	19	14	92	996	1087	1	2216	0	2	2	0
-10	CA	Pyotr Kochetkov	CAR	25	34	2.50	0.904	20	10	84	790	874	1	2016	0	3	3	4
-11	CA	Calvin Pickard	EDM	32	21	2.52	0.901	14	5	48	436	484	0	1144	0	0	0	0
+6	CA	Jake Oettinger	        DAL	26	40	2.35	0.911	26	12	92	945	1037	1	2349	0	1	1	0
+7	CA	Spencer Knight	        FLA	23	22	2.47	0.906	11	8	51	491	542	2	1239	0	2	2	0
+8	CA	Linus Ullmark   	OTT	31	25	2.49	0.916	12	9	58	628	686	3	1400	0	1	1	0
+9	CA	Joey Daccord	        SEA	28	38	2.49	0.915	19	14	92	996	1087	1	2216	0	2	2	0
+10	CA	Pyotr Kochetkov	        CAR	25	34	2.50	0.904	20	10	84	790	874	1	2016	0	3	3	4
+11	CA	Calvin Pickard	        EDM	32	21	2.52	0.901	14	5	48	436	484	0	1144	0	0	0	0
 12	CA	Mackenzie Blackwood	COL	28	41	2.53	0.916	20	15	98	1066	1163	3	2328	0	0	0	0
-13	CA	Kevin Lankinen	VAN	29	34	2.53	0.906	19	8	85	814	899	4	2013	0	1	1	0
-14	CA	Jake Allen	       NJD	34	21	2.56	0.910	9	11	51	517	567	4	1195	0	0	0	0
-15	CA	Karel Vejmelka	UTA	28	34	2.57	0.909	13	15	85	844	929	1	1988	0	0	0	0
-16	CA	David Rittich	       LAK	32	25	2.59	0.890	12	11	59	477	535	0	1367	0	0	0	2
+13	CA	Kevin Lankinen	        VAN	29	34	2.53	0.906	19	8	85	814	899	4	2013	0	1	1	0
+14	CA	Jake Allen	        NJD	34	21	2.56	0.910	9	11	51	517	567	4	1195	0	0	0	0
+15	CA	Karel Vejmelka	        UTA	28	34	2.57	0.909	13	15	85	844	929	1	1988	0	0	0	0
+16	CA	David Rittich	        LAK	32	25	2.59	0.890	12	11	59	477	535	0	1367	0	0	0	2
 17	CA	Filip Gustavsson	MIN	26	37	2.63	0.915	22	11	95	1023	1118	3	2171	1	1	2	0
 18	CA	Charlie Lindgren	WSH	31	25	2.63	0.900	12	9	64	578	641	1	1461	0	0	0	0
 19	CA	Dustin Wolf	       CGY	23	33	2.63	0.912	19	11	87	903	990	2	1982	0	3	3	2
@@ -69,23 +69,23 @@ Ana    2.51               3.06                  6.5
 24	CA	Ilya Sorokin	       NYI	29	40	2.69	0.907	20	16	103	1004	1106	3	2299	0	0	0	2
 25	CA	John Gibson	       ANA	31	23	2.70	0.914	9	9	57	605	661	0	1269	0	1	1	2
 26	CA	Ilya Samsonov	       VGK	27	22	2.72	0.897	13	7	60	520	580	1	1322	0	1	1	2
-27	CA	Stuart Skinner	EDM	26	37	2.74	0.900	20	12	98	884	982	2	2144	0	0	0	0
+27	CA	Stuart Skinner	       EDM	26	37	2.74	0.900	20	12	98	884	982	2	2144	0	0	0	0
 28	CA	Samuel Ersson	       PHI	25	31	2.81	0.896	16	10	80	688	768	2	1709	0	0	0	2
-29	CA	Cameron Talbot	DET	37	31	2.84	0.905	16	11	81	773	853	2	1709	0	0	0	0
+29	CA	Cameron Talbot	       DET	37	31	2.84	0.905	16	11	81	773	853	2	1709	0	0	0	0
 30	CA	Joonas Korpisalo	BOS	30	20	2.86	0.892	9	6	51	423	474	3	1071	0	0	0	0
 31	CA	Lukas Dostal	       ANA	24	32	2.86	0.911	15	13	89	916	1005	1	1865	0	0	0	0
-32	CA	Igor Shesterkin	NYR	29	39	2.87	0.906	18	19	107	1028	1135	3	2237	0	0	0	4
+32	CA	Igor Shesterkin	       NYR	29	39	2.87	0.906	18	19	107	1028	1135	3	2237	0	0	0	4
 33	CA	Joel Hofer	       STL	24	20	2.88	0.903	10	7	53	495	548	1	1103	0	1	1	2
 34	CA	Jordan Binnington	STL	31	39	2.89	0.897	15	19	108	936	1044	3	2245	0	0	0	2
-35	CA	Anton Forsberg	OTT	32	21	2.89	0.894	8	10	57	478	535	2	1184	0	0	0	0
+35	CA	Anton Forsberg	        OTT	32	21	2.89	0.894	8	10	57	478	535	2	1184	0	0	0	0
 36	CA	Alexander Nedeljkov	PIT	28	27	2.93	0.900	12	9	78	701	779	1	1595	1	1	2	2
 37	CA	Juuse Saros	       NSH	29	41	2.95	0.898	11	23	116	1021	1136	4	2360	0	1	1	4
-38	CA	Jeremy Swayman	BOS	26	40	2.98	0.898	18	18	117	1033	1150	3	2357	0	0	0	0
+38	CA	Jeremy Swayman	        BOS	26	40	2.98	0.898	18	18	117	1033	1150	3	2357	0	0	0	0
 39	CA	Elvis Merzlikins	CBJ	30	37	2.99	0.895	19	14	111	947	1058	1	2228	0	0	0	6
 40	CA	Samuel Montembeault	MTL	28	42	3.00	0.897	18	21	116	1007	1123	3	2324	0	0	0	0
-41	CA	Arvid Söderblom	CHI	25	25	3.01	0.906	7	12	73	707	780	0	1455	0	0	0	0
+41	CA	Arvid Söderblom	       CHI	25	25	3.01	0.906	7	12	73	707	780	0	1455	0	0	0	0
 42	CA	Ukko-Pekka Luukkonen	BUF	25	39	3.02	0.895	18	16	114	968	1082	2	2262	0	1	1	0
-43	CA	Justus Annunen	NSH	24	22	3.07	0.890	13	7	57	462	519	0	1114	0	0	0	0
+43	CA	Justus Annunen	      NSH	24	22	3.07	0.890	13	7	57	462	519	0	1114	0	0	0	0
 44	CA	Daniel Vladar	       CGY	27	22	3.07	0.888	7	10	68	540	608	2	1328	0	1	1	2
 45	CA	Connor Ingram	       UTA	27	21	3.23	0.884	9	7	62	471	533	0	1152	0	2	2	2
 46	CA	Petr Mrazek	       CHI	32	31	3.27	0.897	10	18	96	832	928	0	1760	0	0	0	0

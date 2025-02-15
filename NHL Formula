@@ -415,5 +415,9 @@ February 10, 2025
 -Even after taking the day of the week into account, the formula isn't accurate enough to generate a good profit.
 -It would probably be better to use the starting goalie's GOA instead of the team average.
 
-I really need to determine if I should use (33- Opp_GOA_Ranking)/32 or 1/Opp_GOA_Ranking for the defense variable.
+I really need to determine if I should use (33- Opp_GOA_Ranking)/32 or 1/Opp_GOA for the defense variable.
+
+February 15, 2025
+
+After analyzing scores from January 2025, I determined that 1/Opp_GOA is a poor measure of defense because the maximum difference between two teams in less than 0.2 goals. However, the defense variable isn't nearly as important as I thought it would be, so I'm going to increase the denominator to 35.
 

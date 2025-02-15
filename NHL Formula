@@ -94,7 +94,7 @@ Ana    2.51               3.06                  6.5
 49	CA	Philipp Grubauer	SEA	33	21	3.83	0.866	5	15	74	478	552	0	1159	0	0	0	0
 
 
-temp_NHL_formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (33 - Goals_Allowed_Per_Game) / 32 - (Opposing_Coach / 20)
+temp_NHL_formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (33 - Goals_Allowed_Per_Game_Ranking) / 32 - (Opposing_Coach / 20)
 
 #On February 2, 2025, I used the formula to calculate the totals for the New York Islanders and Florida Panthers
 NYI = New_York_Islanders
@@ -136,10 +136,6 @@ temp_NHL_formula_Ana = 2.54
 temp_NHL_formula_Mtl = 2
 temp_NHL_formula_Ana = 3
 
-February 3, 2025
-
-actual_NHL_formula_Ott = 5
-actual_NHL_formula_Nsh = 2
 
 February 4, 2025
 

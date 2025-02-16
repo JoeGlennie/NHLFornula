@@ -9,13 +9,13 @@ from sympy import symbols, Eq
        GPG                GOA                Coaching
 Wpg    3.58               2.38                 8.75
 Was    3.49               2.45                   9
-TB     3.48               2.79                  8.5
+TB     3.48               2.79                   9
 Car    3.35               2.72                  8.5
 LV     3.35               2.76                   9
 Edm    3.29               2.70                 8.75
 Col    3.28               3.04                  8.5
 CBJ    3.27               3.30                  8.5
-Fla    3.19               2.95                  8.25
+Fla    3.19               2.95                   9
 Dal    3.18               2.47                  8.5
 Buf    3.10               3.36                  7.0
 NJ     3.09               2.51                  8.0

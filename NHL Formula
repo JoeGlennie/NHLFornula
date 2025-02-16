@@ -432,3 +432,7 @@ Mtl  3.29
 These predictions were far more accurate, and I'm hoping I won't need to modify the formula in the future. 
 
 Final_Formula = Goals_Per_Game(GPG) + (Coaching / 10) + (Weather / 30) - (33 - Opp_GOA_Ranking / 35) - (Opposing_Coach / 20) + Momentum + day_of_the_week
+
+February 16. 2025
+
+The oddsmaker's predictions in the "to win" column on the Foxsports website are pretty accurate in terms of margin of victory.

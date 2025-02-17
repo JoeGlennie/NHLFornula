@@ -469,4 +469,30 @@ February 2                      February 9                  January 26          
 
 4 for 9 (44%)                   1 for 2 (50%)               4 for 5 (80%)             2 for 3 (67%)
 
+I want to be ready to use the formula when the NHL returns on February 22nd, so I'm going to test it on games from January 31st.
 
+pred_Nsh  =  3.03 + 0.5 = 3.53
+pred_Buf  =  3.42
+
+actual_Nsh = 3
+actual_Buf = 4
+
+pred_Van   = 2.55 + 0.5 = 3.05
+pred_Dal   = 3.48
+
+actual_Van = 3
+actual_Dal = 5
+
+pred_StL   = 2.73 + 0.5 = 3.23
+pred_Col   = 3.57
+
+actual_StL  = 0
+actual_Col  = 5
+
+pred_CbJ    = 3.44
+pred_Uta    = 3.06 + 0.5 = 3.56
+
+actual_CbJ  = 3
+actual_Uta  = 2
+
+Conclusion: If the day of the week flips the score, don't pick the game.

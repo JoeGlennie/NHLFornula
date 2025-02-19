@@ -496,3 +496,12 @@ actual_CbJ  = 3
 actual_Uta  = 2
 
 Conclusion: If the day of the week flips the score, don't pick the game.
+
+
+February 19, 2025
+
+Flow chart for picking NHL games on February 22:
+1. Calculate scores with NHL formula
+2. Compare scores to oddsmaker's predictions
+3. Check if the games include the nine most inconsistent teams
+4. Do not pick teams that are predicted to win only because of the day of the week variable.

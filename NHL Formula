@@ -469,9 +469,10 @@ February 2                      February 9                  January 26          
 
 4 for 9 (44%)                   1 for 2 (50%)               4 for 5 (80%)             2 for 3 (67%)
 
-24 for 50 (48%)                34 for 47 (72%)              34 for 54 (63%)           31 for 51 (61%)
+24 for 50 (48%)                34 for 47 (72%)              34 for 54 (63%)           31 for 51 (61%)          123/202  (61%)
 
 I want to be ready to use the formula when the NHL returns on February 22nd, so I'm going to test it on games from January 31st.
+
 
 pred_Nsh  =  3.03 + 0.5 = 3.53
 pred_Buf  =  3.42

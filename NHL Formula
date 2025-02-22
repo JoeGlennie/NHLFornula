@@ -508,38 +508,73 @@ Flow chart for picking NHL games on February 22:
 3. Check if the games include the nine most inconsistent teams
 4. Do not pick teams that are predicted to win only because of the day of the week variable.
 
+February 22, 2025
+
 Edm  3.72
 Phi  2.74 + 0.6 = 3.34
+
+actual_Edm = 3
+actual_Phi = 6
 
 Was  4.15
 Pit  2.45 + 0.6 = 3.05
 
+actual_Was
+actual_Pit
+
 NYR  3.30
 Buf  3.24 + 0.6 = 3.84
+
+actual_NYR =
+actual_Buf =
 
 Col  3.78
 Nsh  2.735 + 0.6 = 3.335
 
+actual_Col =
+actual_Nsh =
+
 Sea  2.93 +  0.6 = 3.53  
 Fla  3.72
+
+actual_Sea =
+actual_Fla =
 
 Wpg  3.93
 StL  2.24 + 0.6 = 2.84
 
+actual_Wpg =
+actual_StL =
+
 Ana  2.69 + 0.6 = 3.29
 Bos  2.86
+
+actual_Ana =
+actual_Bos =
 
 Mtl  2.70 + 0.6 = 3.30
 Ott  3.42
 
+actual_Mtl
+actual_Ott
+
 Chi  2.76 + 0.6 = 3.36
 CBJ  4.23
+
+actual_Chi =
+actual_CBJ =
 
 Uta  2.68 + 0.6 = 3.28
 LA   2.96
 
+actual_Uta
+actual_LA
+
 Van  2.60 + 0.6 = 3.2
 LV   3.68
+
+actual_Van =
+actual_LV =
 
 February 23, 2025
 

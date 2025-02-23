@@ -519,26 +519,26 @@ actual_Phi = 6
 Was  4.15
 Pit  2.45 + 0.6 = 3.05
 
-actual_Was
-actual_Pit
+actual_Was = 8
+actual_Pit = 3
 
 NYR  3.30
 Buf  3.24 + 0.6 = 3.84
 
-actual_NYR =
-actual_Buf =
+actual_NYR = 2
+actual_Buf = 8
 
 Col  3.78
 Nsh  2.735 + 0.6 = 3.335
 
-actual_Col =
-actual_Nsh =
+actual_Col = 1
+actual_Nsh = 2
 
 Sea  2.93 +  0.6 = 3.53  
 Fla  3.72
 
-actual_Sea =
-actual_Fla =
+actual_Sea = 2
+actual_Fla = 1
 
 Wpg  3.93
 StL  2.24 + 0.6 = 2.84
@@ -555,8 +555,8 @@ actual_Bos =
 Mtl  2.70 + 0.6 = 3.30
 Ott  3.42
 
-actual_Mtl
-actual_Ott
+actual_Mtl =
+actual_Ott =
 
 Chi  2.76 + 0.6 = 3.36
 CBJ  4.23
@@ -567,8 +567,8 @@ actual_CBJ =
 Uta  2.68 + 0.6 = 3.28
 LA   2.96
 
-actual_Uta
-actual_LA
+actual_Uta =
+actual_LA  =
 
 Van  2.60 + 0.6 = 3.2
 LV   3.68

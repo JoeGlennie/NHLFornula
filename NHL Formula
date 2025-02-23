@@ -581,28 +581,52 @@ February 23, 2025
 Tor  3.62
 Chi  2.38 + 0.7 = 3.08
 
+actual_Tor =
+actual_Chi =
+
 Dal  3.23
 NYI  2.48 + 0.7 = 3.18
+
+actual_Dal =
+actual_NYI =
 
 SJS  2.51 + 0.7 = 3.21
 Cal  3.27
 
+actual_SJS =
+actual_Cal =
+
 Van  2.83 + 0.7 = 3.53
 Uta  2.86
+
+actual_Van =
+actual_Uta =
 
 Ana  2.61 + 0.7 = 3.31
 Det  3.03
 
+actual_Ana =
+actual_Det =
+
 Sea  2.81 + 0.7 = 3.51
 TB   4.01
+
+actual_Sea =
+actual_TB  =
 
 Col  3.61
 StL  2.77 + 0.7 = 3.47
 
+actual_Col =
+actual_StL =
+
 NJD  3.54
 Nsh  2.27 + 0.7 = 2.97
 
-Edm  3.02 + 0.7 = 3.72
+actual_NJD =
+actual_Nas =
+
+*Edm  3.02 + 0.7 = 3.72
 Was  3.40
 
 actual_Edm = 3
@@ -610,6 +634,9 @@ actual_Was = 7
 
 NYR  3.42
 Pit  3.06 + 0.7 = 3.77
+
+actual_NYR =
+actual_Pit =
 
 February 23, 2025
 

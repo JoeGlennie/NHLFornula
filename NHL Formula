@@ -605,6 +605,9 @@ Nsh  2.27 + 0.7 = 2.97
 Edm  3.02 + 0.7 = 3.72
 Was  3.40
 
+actual_Edm = 3
+actual_Was = 7
+
 NYR  3.42
 Pit  3.06 + 0.7 = 3.77
 

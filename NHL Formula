@@ -510,7 +510,7 @@ Flow chart for picking NHL games on February 22:
 
 February 22, 2025
 
-Edm  3.72
+*Edm  3.72
 Phi  2.74 + 0.6 = 3.34
 
 actual_Edm = 3
@@ -528,13 +528,13 @@ Buf  3.24 + 0.6 = 3.84
 actual_NYR = 2
 actual_Buf = 8
 
-Col  3.78
+*Col  3.78
 Nsh  2.735 + 0.6 = 3.34
 
 actual_Col = 1
 actual_Nsh = 2
 
-Sea  2.93 +  0.6 = 3.53  
+*Sea  2.93 +  0.6 = 3.53  
 Fla  3.72
 
 actual_Sea = 2
@@ -552,7 +552,7 @@ Bos  2.86
 actual_Ana = 3
 actual_Bos = 2
 
-Mtl  2.70 + 0.6 = 3.30
+*Mtl  2.70 + 0.6 = 3.30
 Ott  3.42
 
 actual_Mtl = 5
@@ -564,7 +564,7 @@ CBJ  4.23
 actual_Chi = 1
 actual_CBJ = 5
 
-Uta  2.68 + 0.6 = 3.28
+*Uta  2.68 + 0.6 = 3.28
 LA   2.96
 
 actual_Uta = 3
@@ -607,3 +607,7 @@ Was  3.40
 
 NYR  3.42
 Pit  3.06 + 0.7 = 3.77
+
+February 23, 2025
+
+I only went six for ten on Saturday, and four for seven on ProLine. Two of them included the most inconsistent teams in the league (especially Seattle).

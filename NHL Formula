@@ -543,20 +543,20 @@ actual_Fla = 1
 Wpg  3.93
 StL  2.24 + 0.6 = 2.84
 
-actual_Wpg =
-actual_StL =
+actual_Wpg = 4
+actual_StL = 3
 
 Ana  2.69 + 0.6 = 3.29
 Bos  2.86
 
-actual_Ana =
-actual_Bos =
+actual_Ana = 3
+actual_Bos = 2
 
 Mtl  2.70 + 0.6 = 3.30
 Ott  3.42
 
-actual_Mtl =
-actual_Ott =
+actual_Mtl = 5
+actual_Ott = 2
 
 Chi  2.76 + 0.6 = 3.36
 CBJ  4.23

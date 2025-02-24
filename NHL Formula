@@ -596,13 +596,13 @@ Cal  3.27
 actual_SJS = 2
 actual_Cal = 3
 
-Van  2.83 + 0.7 = 3.53
+*Van  2.83 + 0.7 = 3.53
 Uta  2.86
 
 actual_Van = 1
 actual_Uta = 2
 
-Ana  2.61 + 0.7 = 3.31
+*Ana  2.61 + 0.7 = 3.31
 Det  3.03
 
 actual_Ana = 4
@@ -614,7 +614,7 @@ TB   4.01
 actual_Sea = 1
 actual_TB  = 4
 
-Col  3.61
+*Col  3.61
 StL  2.77 + 0.7 = 3.47
 
 actual_Col = 1
@@ -632,7 +632,7 @@ Was  3.40
 actual_Edm = 3
 actual_Was = 7
 
-NYR  3.42
+*NYR  3.42
 Pit  3.06 + 0.7 = 3.77
 
 actual_NYR = 5
@@ -645,3 +645,18 @@ I only went six for ten on Saturday, and four for seven on ProLine. Two of them 
 February 24, 2025
 
 I only went five for ten on Sunday, but one for one on Proline. 
+
+February 24, 2025
+
+SJS = 1.99 + 0.1 = 2.09
+Wpg = 4.36
+
+actual_SJS =
+actual_Wpg =
+
+LV  = 3.38
+LAK = 2.81 + 0.1 = 2.91
+
+actual_LV  =
+actual_LAK =
+

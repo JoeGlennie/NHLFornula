@@ -651,8 +651,8 @@ February 24, 2025
 SJS = 1.99 + 0.1 = 2.09
 Wpg = 4.36
 
-actual_SJS =
-actual_Wpg =
+actual_SJS = 1
+actual_Wpg = 2
 
 LV  = 3.38
 LAK = 2.81 + 0.1 = 2.91

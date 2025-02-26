@@ -269,43 +269,6 @@ pred_Dal = 3.55                                    actual_Dal = 4
 pred_LAK = 3.06 + 0.5 =  3.56                      actual_LAK = 5
 
 
-According to to the website www.underdogchance.com, the two most important statistics are Corsi and expected goals (xG). I believe Corsi is connected to total shot attempts per game. 
-
-
-             (Corsi %)            expected goals (xG)
-Car           59.37%                   56.19%
-Fla           55.06%                   54.46%
-Edm           54.19%                   55.28%
-Col           53.74%                   52.33%
-LAK           52.96%                   55.91%
-Uta           52.58%                   51.93%
-Dal           51.65%                   52.35%
-NJD           51.61%                   53.51%
-Nsh           51.33%                   51.04%
-Cgy           51.21%                   48.19%
-LV            50.98%                   51.99%
-Ott           50.98%                   50.41%
-Pit           50.58%                   50.06%
-TB            50.57%                   52.09%
-Buf           50.18%                   47.52%
-Wsh           49.46%                   50.99%
-Wpg           49.38%                   52.29%
-Tor           49.29%                   51.07%
-NYI           49.29%                   49.17%
-Van           49.24%                   48.97%
-Bos           48.64%                   49.88%
-NYR           48.62%                   49.33%
-StL           48.23%                   48.59%
-Phi           48.22%                   53.67%
-Mtl           47.94%                   45.84%
-Sea           47.55%                   45.28%
-Det           47.53%                   45.88%
-CBJ           47.45%                   46.37%
-Min           47.24%                   49.55%
-Ana           45.91%                   43.82%
-SJS           44.81%                   42.47%
-Chi           44.36%                   43.79%
-
 February 8, 2025
 
 After going one for five last night, it really seems like the games become more unpredictable throughout the course of the week. I'm going to add a variable for the day of the week to see if it helps with the accuracy. I encountered the same issue when I tried to create a formula for baseball games.

@@ -665,17 +665,29 @@ February 25, 2025
 Tor = 3.37
 Bos = 2.62 + 0.2 = 2.82
 
+actual_Tor =
+actual_Bos =
+
 Car = 4.13
 Mtl = 2.68 + 0.2 = 2.88
 
+actual_Car = 0
+actual_Mtl = 4
+
 Pits = 3.15
 Phi  = 3.58
+
+actual_Pits = 1
+actual_Phi  = 6
 
 Cal  = 2.29 + 0.2 = 2.49
 Was  = 3.77
 
 Dal  = 3.58
 CBJ  = 3.07 + 0.2 = 3.27
+
+actual_Dal = 4
+actual_CBJ = 6
 
 Ana  = 2.83 + 0.2 = 3.03
 Buf  = 3.21

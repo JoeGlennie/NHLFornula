@@ -665,8 +665,8 @@ February 25, 2025
 Tor = 3.37
 Bos = 2.62 + 0.2 = 2.82
 
-actual_Tor =
-actual_Bos =
+actual_Tor = 5
+actual_Bos = 4
 
 Car = 4.13
 Mtl = 2.68 + 0.2 = 2.88
@@ -683,6 +683,9 @@ actual_Phi  = 6
 Cal  = 2.29 + 0.2 = 2.49
 Was  = 3.77
 
+actual_Cal = 3
+actual_Wsh = 1
+
 Dal  = 3.58
 CBJ  = 3.07 + 0.2 = 3.27
 
@@ -692,17 +695,35 @@ actual_CBJ = 6
 Ana  = 2.83 + 0.2 = 3.03
 Buf  = 3.21
 
+actual_Ana = 2
+actual_Buf = 3
+
 NYR  = 2.86 + 0.2 = 3.06
 NYI  = 3.04
+
+actual_NYR = 5
+actual_NYI = 1
 
 Sea  = 3.16
 StL  = 2.95 + 0.2 = 3.15
 
+actual_Sea = 2
+actual_StL = 7
+
 Fla  = 3.74
 Nsh  = 2.54 + 0.2 = 2.74
+
+actual_Fla = 4
+actual_Nsh = 1
 
 Det  = 2.73 + 0.2 = 2.93
 Min  = 3.24
 
+actual_Det = 3
+actual_Min = 2
+
 Chi  = 2.52 + 0.2 = 2.72
 Uta  = 3.50
+
+actual_Chi = 1
+actual_Uta = 2

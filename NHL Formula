@@ -698,8 +698,8 @@ So far, the formula has done a poor job picking winners, so I'm going to switch 
 Wpg = 3.3
 Ott = 1.8 + 0.2 = 2.0
 
-actual_Wpg =
-actual_Ott =
+actual_Wpg = 4
+actual_Ott = 1
 
 NJD = 2.29 + 0.3 = 2.59
 Col = 3.08 - 0.1 = 2.98

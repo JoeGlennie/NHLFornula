@@ -704,11 +704,11 @@ actual_Ott = 1
 NJD = 2.29 + 0.3 = 2.59
 Col = 3.08 - 0.1 = 2.98
 
-actual_NJD =
-actual_Col =
+actual_NJD = 1
+actual_Col = 5
 
 Van = 1.83 + 0.3 = 2.13
 LAK = 3.73
 
-actual_Van =
-actual_LAK =
+actual_Van = 3
+actual_LAK = 2

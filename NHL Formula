@@ -815,3 +815,14 @@ actual_LAK = 1
 actual_Chi = 5
 
 The formula still does a terrible job flipping games, so I'm going to change the denominators for the coaching, defense, and opp_coaching variables. It also seems like the oddsmaker's accuracy peaks on Thursday's and drops way down on Sunday's and Monday's.
+
+March 4, 2025
+
+CBJ = 2.68 + 0.3 = 2.98
+TB  = 4.32
+
+NJD = 2.04 + 0.3 = 2.34
+Dal = 2.87
+
+Pit = 2.60 + 0.3 = 2.9
+Col = 4.60

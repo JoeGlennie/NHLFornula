@@ -793,11 +793,25 @@ March 3, 2025
 Ott = 2.1 + 0.4 = 2.5
 Was = 3.08
 
+actual_Ott = 4
+actual_Was = 5
+
 TB  = 2.5 + 0.4 = 2.9
 Fla = 3.03
+
+actual_TB  = 1
+actual_Fla = 2
 
 SJS = 2.02 + 0.4 = 2.42
 Tor = 4.39
 
+actual_SJS = 3
+actual_Tor = 2
+
 LAK  = 3.83
 Chi  = 1.79 + 0.4 = 2.19
+
+actual_LAK = 1
+actual_Chi = 5
+
+The formula still does a terrible job flipping games, so I'm going to change the denominators for the coaching, defense, and opp_coaching variables. It also seems like the oddsmaker's accuracy peaks on Thursday's and drops way down on Sunday's and Monday's.

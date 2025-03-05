@@ -833,5 +833,5 @@ actual_Dal = 4
 Pit = 2.60 + 0.3 = 2.9
 Col = 4.60
 
-actual_Pit =
-actual_Col = 
+actual_Pit = 1
+actual_Col = 4

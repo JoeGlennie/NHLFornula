@@ -821,8 +821,17 @@ March 4, 2025
 CBJ = 2.68 + 0.3 = 2.98
 TB  = 4.32
 
+actual_CBJ = 2
+actual_TB  = 6
+
 NJD = 2.04 + 0.3 = 2.34
 Dal = 2.87
 
+actual_NJD = 3
+actual_Dal = 4
+
 Pit = 2.60 + 0.3 = 2.9
 Col = 4.60
+
+actual_Pit =
+actual_Col = 

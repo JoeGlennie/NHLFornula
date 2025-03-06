@@ -875,3 +875,5 @@ Det = 2.71 + 0.1 = 2.81
 
 actual_Uta =
 actual_Det =
+
+It seems like the formula never flips games unless it's on a Sunday or Monday, so I'm not going to bother spending more time tweaking it. 

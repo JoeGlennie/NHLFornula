@@ -847,20 +847,20 @@ actual_NYR = 2
 Tor = 2.33 + 0.2 = 2.53
 LV  = 3.54
 
-actual_Tor =
-actual_LV  =
+actual_Tor = 2
+actual_LV  = 5
 
 StL = 2.04 + 0.2 = 2.24
 LAK = 3.45
 
-actual_StL =
-actual_LAK
+actual_StL = 3
+actual_LAK = 2
 
 Ana = 2.22 + 0.2 = 2.42
 Van = 3.39
 
-actual_Ana =
-actual_Van =
+actual_Ana = 2
+actual_Van = 3
 
 Ott = 4.36
 Chi = 2.04 + 0.2 = 2.24

@@ -873,10 +873,13 @@ March 6, 2025
 Uta = 3.63 
 Det = 2.71 + 0.1 = 2.81
 
-actual_Uta =
-actual_Det =
+actual_Uta = 4
+actual_Det = 2
 
 It seems like the formula never flips games unless it's on a Sunday or Monday, so I'm not going to bother spending more time tweaking it. 
 
 Sea = 2.71 + 0.1= 2.81
 Nas = 3.56
+
+actual_Sea = 
+actual_Nas = 

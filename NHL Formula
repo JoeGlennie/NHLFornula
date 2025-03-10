@@ -911,17 +911,17 @@ March 9, 2025
 Pit = 2.08 - 0.2 + 0.6 = 2.48
 Min = 3.90
 
-actual_Pit =
-actual_Min =
+actual_Pit = 3
+actual_Min = 1
 
 Dal = 3.30 + 0.1 = 3.40
 Van = 1.83 + 0.1 + 0.6 = 2.45
 
-actual_Dal =
-actual_Van =
+actual_Dal = 4
+actual_Van = 1
 
 LAK = 2.05 - 0.2 + 0.6 = 2.45 
 LV  = 3.00 + 0.1 = 3.10
 
-actual_LAK =
-actual_LV  =
+actual_LAK = 5
+actual_LV  = 4

@@ -941,3 +941,28 @@ March 22, 2025
 
 For the Data Scientist final portfolio project, I'm going to analyze a csv file with all of the scores from December 2024 to the present day to see how accurate my NHL formula is. For the month I tracked the oddsmaker's results, they only achieved 61% accuracy. I really hope my formula is more accurate than whatever the oddsmaker's use. I don't think there's any way to plug the values from 
 Since I will be using the Goals Per Game data instead of what the oddsmaker's predicted, I will need to dramatically reduce the impact of the Day of The Week variable. To start, I will check out how accurate the formula is for the two best teams in the league (Washington Capitals and Winnepeg Jets). I hypothesize that the formula will be more accurate for the best teams than the worst teams (Chicago Blackhawks and San Jose Sharks).
+I also hypothesize that the formula will be less accurate for teams in the middle of the pack (New York Islanders and Vancouver Canucks).
+
+I was not able to filter the columns for Winnipeg and Washington. 
+
+I will post all of Winnipeg's and Washington's results for the month of January, 2025.
+
+January 2                January 14              January 24
+Anaheim  4               Vancouver 1               Utah     2
+Winnipeg 3               Winnipeg  6              Winnipeg  5
+
+January 4                January 16              January 26
+Detroit  4               Seattle  1               Calgary  2
+Winnipeg 2               Winnipeg 2              Winnipeg  5
+
+January 7                January 18              January 28
+Nashville 2              Calgary   3             Winnipeg  4 
+Winnipeg  5              Winnipeg  1             Montreal  1
+
+January 10               January 20              January 30
+Los Angeles 2             Utah     5             Winnipeg 6
+Winnipeg    1            Winnipeg  2              Boston  2
+
+January 11               January 22
+Colorado 0               Winnipeg  3
+Winnipeg 3               Colorado  2

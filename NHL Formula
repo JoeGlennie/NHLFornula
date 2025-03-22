@@ -6,6 +6,9 @@ from sympy import symbols, Eq
 #How do I make my NBA formula better?
 #Should I simply avoid the ten inconsistent teams?
 #Would it work better with NHL games since they dress 22 versus 12 in the NBA?
+
+Table 1- NHL Team Data And Rankings
+
        GPG                GOA                Coaching             GOA_Ranking
 Wpg    3.58               2.38                 8.75                   1
 Was    3.49               2.45                   9                    3
@@ -936,4 +939,5 @@ actual_Uta = 3
 
 March 22, 2025
 
-For the Data Scientist final portfolio project, I'm going to analyze a csv file with all of the scores from December 2024 to the present day to see how accurate my NHL formula is. For the month I tracked the oddsmaker's results, they only achieved 61% accuracy. I really hope my formula is more accurate than whatever the oddsmaker's use.
+For the Data Scientist final portfolio project, I'm going to analyze a csv file with all of the scores from December 2024 to the present day to see how accurate my NHL formula is. For the month I tracked the oddsmaker's results, they only achieved 61% accuracy. I really hope my formula is more accurate than whatever the oddsmaker's use. I don't think there's any way to plug the values from 
+Since I will be using the Goals Per Game data instead of what the oddsmaker's predicted, I will need to dramatically reduce the impact of the Day of The Week variable. To start, I will check out how accurate the formula is for the two best teams in the league (Washington Capitals and Winnepeg Jets). I hypothesize that the formula will be more accurate for the best teams than the worst teams (Chicago Blackhawks and San Jose Sharks).

@@ -933,3 +933,7 @@ Uta = 2.53 + 0.1 + 0.5 = 3.13
 
 actual_Tor = 4
 actual_Uta = 3
+
+March 22, 2025
+
+For the Data Scientist final portfolio project, I'm going to analyze a csv file with all of the scores from December 2024 to the present day to see how accurate my NHL formula is. For the month I tracked the oddsmaker's results, they only achieved 61% accuracy. I really hope my formula is more accurate than whatever the oddsmaker's use.

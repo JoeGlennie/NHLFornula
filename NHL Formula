@@ -990,7 +990,7 @@ San Jose 1               San Jose    1           Florida   7
 
 Washington
                                 
-January 4                January 11              January 21
+January 4                January 11              January 21                                      Formula accuracy = 8 for 12 = 67%
 New York R   4           Washington 4            Washington  3
 Washington   7           Nashville  1            Edmonton    2
 
@@ -1005,3 +1005,25 @@ Washington  2             Ottawa   0             Vancouver   2
 January 10               January 18              January 30
 Montreal    3            Pittsburgh  1          Washington 4
 Washington  2            Washington  4           Ottawa    5
+
+Chicago
+
+January 3               January 13              January 24                                      Formula accuracy = 10 for 14 = 71%
+Montreal  2             Calgary  5              Tampa Bay  4
+Chicago   4             Chicago  2              Chicago    3
+
+January 5               January 16               January 26
+New York R  6           Chicago    2            Minnesota 4
+Chicago     2           Nashville  3             Chicago  2
+
+January 8               January 18               January 28
+Colorado  1             Las Vegas  3             Chicago   4
+Chicago   3             Chicago    5            Tampa Bay  1
+
+January 10              January 20               January 30
+Chicago 3               Carolina  4              Chicago   2
+Detroit 5                Chicago  3              Carolina  3
+
+January 11               January 24
+Edmonton  4              Tampa Bay  4
+Chicago  3              Chicago    3

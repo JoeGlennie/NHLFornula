@@ -9,39 +9,39 @@ from sympy import symbols, Eq
 
 Table 1- NHL Team Data And Rankings
 
-       GPG                GOA                Coaching             GOA_Ranking
-Wpg    3.58               2.38                 8.75                   1
-Was    3.49               2.45                   9                    3
-TB     3.48               2.79                   9                    9
-Car    3.35               2.72                  8.5                   6
-LV     3.35               2.76                   9                    7
-Edm    3.29               2.70                 8.75                   8
-Col    3.28               3.04                  8.5                   19
-CBJ    3.27               3.30                  8.5                   25
-Fla    3.19               2.95                   9                    13
-Dal    3.18               2.47                  8.5                    4
-Buf    3.10               3.36                  7.0                   28
-NJ     3.09               2.51                  8.0                    2
-Tor    3.04               2.89                  8.0                   12
-Sea    2.98               3.18                  7.0                   23
-NYR    2.96               3.08                  7.0                   21
-Min    2.94               2.83                  8.5                   11
-Mtl    2.92               3.34                  7.0                   29
-Pit    2.89               3.47                  7.0                   31
-Ott    2.87               2.69                  8.5                   10
-Phi    2.85               3.33                  8.5                  27
-Van    2.84               3.08                  7.0                  16.5 
-Det    2.82               3.06                  8.0                   22
-Uta    2.80               2.93                  7.5                  16.5
-LA     2.76               2.52                  7.5                    5
-NYI    2.72               2.85                  8.5                   14
-Bos    2.70               3.16                  7.5                   24
-StL    2.69               3.02                  7.5                   20
-Cal    2.68               2.96                  7.5                   15
-Nas    2.66               3.25                  8.0                   26
-SJS    2.61               3.67                  6.0                   32
-Chi    2.61               3.42                  7.0                   30
-Ana    2.51               3.06                  6.5                   18
+       GPG                GOA                Coaching             GOA_Ranking       Expected Goals For Per 60       Expected Goals Against Per 60 
+Wpg    3.58               2.38                 8.75                   1                      2.51                               2.29
+Was    3.49               2.45                   9                    3                      2.67                               2.53
+TB     3.48               2.79                   9                    9                      2.52                               2.42
+Car    3.35               2.72                  8.5                   6                      3.05                               2.38
+LV     3.35               2.76                   9                    7                      2.68                               2.46
+Edm    3.29               2.70                 8.75                   8                      2.78                               2.32
+Col    3.28               3.04                  8.5                   19                      2.5                                2.2
+CBJ    3.27               3.30                  8.5                   25                     2.48                               2.67
+Fla    3.19               2.95                   9                    13                     2.68                               2.25
+Dal    3.18               2.47                  8.5                    4                     2.66                               2.54
+Buf    3.10               3.36                  7.0                   28                     2.39                               2.61
+NJ     3.09               2.51                  8.0                    2                     2.59                               2.43
+Tor    3.04               2.89                  8.0                   12                      2.4                               2.37
+Sea    2.98               3.18                  7.0                   23                     2.21                               2.62
+NYR    2.96               3.08                  7.0                   21                     2.54                               2.75
+Min    2.94               2.83                  8.5                   11                     2.21                               2.26
+Mtl    2.92               3.34                  7.0                   29                     2.51                               2.82
+Pit    2.89               3.47                  7.0                   31                     2.61                               2.66
+Ott    2.87               2.69                  8.5                   10                      2.3                               2.36
+Phi    2.85               3.33                  8.5                  27                      2.51                               2.23
+Van    2.84               3.08                  7.0                  16.5                    2.15                                2.2
+Det    2.82               3.06                  8.0                   22                     2.35                               2.56
+Uta    2.80               2.93                  7.5                  16.5                    2.65                               2.42
+LA     2.76               2.52                  7.5                    5                     2.62                               2.06
+NYI    2.72               2.85                  8.5                   14                     2.43                               2.52
+Bos    2.70               3.16                  7.5                   24                      2.3                               2.37
+StL    2.69               3.02                  7.5                   20                     2.29                               2.23
+Cal    2.68               2.96                  7.5                   15                     2.25                               2.47
+Nas    2.66               3.25                  8.0                   26                     2.55                               2.44
+SJS    2.61               3.67                  6.0                   32                     2.25                               2.90
+Chi    2.61               3.42                  7.0                   30                     2.05                               2.71
+Ana    2.51               3.06                  6.5                   18                     2.30                               2.95
 
 #Obviously, I needed to tweak the NFL formula because it was built for an score of about 50 points versus 6 goals in hockey.
 
@@ -1029,4 +1029,8 @@ Edmonton  4              Tampa Bay  4
 Chicago  3              Chicago     3
 
 
-Unfortunately, I can't gather any additional information from plotting head to head matchups. I already have the average goals per game stats for every team, and I didn't see any games where San Jose and Chicago would've been favored to win. The formula seems to work equally well with the best and worst teams. None of the teams has accuracy above 75%, so I won't be picking any more games. 
+Unfortunately, I can't gather any additional information from plotting head to head matchups. I already have the average goals per game stats for every team, and I didn't see any games where San Jose and Chicago would've been favored to win. The formula seems to work equally well with the best and worst teams. None of the teams has accuracy above 75%, so I won't be picking any more games. It would take too long to calculate the odds for the mediocre teams, but I think their accuracy would be lower than the best's and worst's. 
+
+Conclusion
+
+Aside from including more variables, I doubt I'll ever be able to push the formula's accuracy above 75%.I just noticed there are Goals Expected For and Goals Expected Against statistics on moneypuck.com. I'll check if they are any more accurate. 
